@@ -1,0 +1,67 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "date": "01-02-2021",
+            "sender": "John Smith",
+            "body" : "Lorem first ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. "
+        },
+        {
+            "id": 2,
+            "date": "05-02-2021",
+            "sender": "Jim Smith",
+            "body" : "Ut ninja wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit ninja lobortis nisl ut aliquip ex ea commodo consequat. Duis ninja autem vel eum iriure dolor in hendrerit in vulputate ninja velit esse molestie consequat, vel illum dolore eu feugiat nulla ninja facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. "
+        },
+        {
+            "id": 3,
+            "date": "07-02-2021",
+            "sender": "John Smith",
+            "body" : "Nam ninja ipsum liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. "
+        },
+        {
+            "id": 4,
+            "date": "20-02-2021",
+            "sender": "Jim Smith",
+            "body" : "Typi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes ninja demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas ninja est etiam processus dynamicus, qui ninja sequitur mutationem consuetudium lectorum. "
+        },
+        {
+            "id": 5,
+            "date": "21-02-2021",
+            "sender": "John Smith",
+            "body" : "Mirum ninja est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima."
+        },
+        {
+            "id": 6,
+            "date": "24-02-2021",
+            "sender": "Jim Smith",
+            "body" : "Eodem ninja ipsum modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in ninja futurum."
+        }
+    ],
+
+    "colors": [
+        {
+            "id": 1,
+            "color": "green"
+        },
+        {
+            "id": 2,
+            "color": "blue"
+        },
+        {
+            "id": 3,
+            "color": "black"
+        },
+        {
+            "id": 4,
+            "color": "red"
+        },
+        {
+            "id": 5,
+            "color": "purple"
+        },
+        {
+            "id": 6,
+            "color": "yellow"
+        }
+    ]
+}
